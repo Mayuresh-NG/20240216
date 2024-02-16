@@ -1,25 +1,25 @@
 [
   {
     "productId": 1,
-    "productName": "A",
-    "description": "This is the description for Product A.",
-    "price": 19.99,
+    "productName": "Samsung",
+    "description": "Android phone",
+    "price": 50000,
     "stock": 88,
     "imageUrl": "https://example.com/productA.jpg"
   },
   {
     "productId": 2,
-    "productName": "B",
-    "description": "Description for Product B goes here.",
-    "price": 29.99,
-    "stock": 28,
+    "productName": "Apple",
+    "description": "IOS phone",
+    "price": 100000,
+    "stock": 26,
     "imageUrl": "https://example.com/productB.jpg"
   },
   {
     "productId": 3,
-    "productName": "C",
-    "description": "Product C is an amazing product.",
-    "price": 39.99,
+    "productName": "Asus",
+    "description": "Gaming laptop",
+    "price": 62000,
     "stock": 20,
     "imageUrl": "https://example.com/productC.jpg"
   },
